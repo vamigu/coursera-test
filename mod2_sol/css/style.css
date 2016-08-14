@@ -30,7 +30,7 @@ h1 {
 	border: 1px solid black;
 	height: 250px;
 	background-color: #DFC7A6;
-	overflow: hidden;
+	overflow: auto;
 }
 
 /*Nombres de las aves*/
